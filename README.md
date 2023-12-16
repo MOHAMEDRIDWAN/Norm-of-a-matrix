@@ -14,7 +14,7 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 # Developed By:MOHAMED RIDWAN A
 # 1-Norm of a Matrix
 ```
-
+```
 import numpy as np
 a=np.array(eval(input()))
 b=np.linalg.norm(a,1)
@@ -24,12 +24,13 @@ print(c)
 
 
 # 2-Norm of a Matrix
-```
+
 '''
 Program to find 2-norm of a matrix.
 Developed by: MOHAMED RIDWAN A
 RegisterNumber:23003133 
 '''
+```
 import numpy as np
 a=np.array(eval(input()))
 b=np.linalg.norm(a,2)
@@ -47,6 +48,7 @@ Program to find 2-norm of a matrix.
 Developed by: MOHAMED RIDWAN A
 RegisterNumber: 23003133
 '''
+```
 import numpy as np
 a=np.array(eval(input()))
 b=np.linalg.norm(a,np.inf)
@@ -74,7 +76,9 @@ print(c)
 <br>
 <br>
 <br>
-![Screenshot (62)](https://github.com/MOHAMEDRIDWAN/Norm-of-a-matrix/assets/146993368/536b2519-5f19-4835-b412-af94a06c3add)
+<img width="515" alt="image" src="https://github.com/MOHAMEDRIDWAN/Norm-of-a-matrix/assets/146993368/e3c0e1ea-ee6f-438c-b85b-42b93290c041">
+
+
 
 
 ## Result
