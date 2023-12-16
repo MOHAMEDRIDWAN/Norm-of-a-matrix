@@ -24,7 +24,7 @@ print(c)
 
 
 # 2-Norm of a Matrix
-
+```
 '''
 Program to find 2-norm of a matrix.
 Developed by: MOHAMED RIDWAN A
@@ -49,6 +49,7 @@ Developed by: MOHAMED RIDWAN A
 RegisterNumber: 23003133
 '''
 ```
+```
 import numpy as np
 a=np.array(eval(input()))
 b=np.linalg.norm(a,np.inf)
@@ -58,7 +59,6 @@ print(c)
 
 
 
-```
 ## Output:
 ### 1-Norm of a Matrix
 <br>
