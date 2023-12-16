@@ -43,7 +43,7 @@ print(c)
 # Infinity Norm of a Matrix
 ```
 '''
-Program to find 2-norm of a matrix.
+Program to find infinity-norm of a matrix.
 Developed by: MOHAMED RIDWAN A
 RegisterNumber: 23003133
 '''
